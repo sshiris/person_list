@@ -1,0 +1,29 @@
+# Ignore .NET build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
+*.log
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Mac trash
+.Trashes
